@@ -3,7 +3,14 @@ Escribir un programa que pregunte al usuario su edad y muestre por pantalla si e
 mayor de edad o no.
 '''
 
-edad = int(input())
+edad = int(input("Introduce tu edad: "))
+if edad >= "18":
+    print("Eres mayor de edad")
+else:
+    print("Eres mayor de edad")
+
+'''Cuidado con los : despues de if y else'''
+    
 
 
 

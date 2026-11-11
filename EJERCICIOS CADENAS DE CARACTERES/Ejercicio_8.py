@@ -8,5 +8,3 @@ precio = input("Introduce precio: ")
 precio = precio.replace(",",".")
 partes = precio.split(".")
 print(partes[0], "euros y", partes[1], "centimos.")
-
-

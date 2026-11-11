@@ -13,5 +13,5 @@ elif renta < 60000:
     tipo = "30%"
 else:
     tipo = "45%"
-print("Tipo impositivo igual", tipo)
+print("Tipo impositivo", tipo)
 
